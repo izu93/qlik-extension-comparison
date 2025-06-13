@@ -1,0 +1,13 @@
+{
+  "name": "qlik-extension-comparison",
+  "version": "0.1.0",
+  "description": "",
+  "author": {
+    "name": "Karthik Burra",
+    "email": "karthik.burra@qlik.com"
+  },
+  "icon": "extension",
+  "preview": "",
+  "type": "visualization",
+  "supernova": true
+}

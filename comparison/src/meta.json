@@ -1,6 +1,10 @@
 {
   "name": "qlik-extension-comparison",
-  "description": "A dynamic Qlik Sense extension for comparing Renewal and New Opportunity data.",
+  "description": "A dynamic Qlik Sense extension for comparing Renewal and New Opportunity data with false churn analysis.",
   "icon": "extension",
-  "preview": ""
+  "preview": "",
+  "version": "1.0.0",
+  "author": "Custom Extension",
+  "keywords": ["comparison", "renewal", "opportunity", "churn", "analysis"],
+  "license": "MIT"
 }
