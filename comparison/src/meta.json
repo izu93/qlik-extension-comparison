@@ -1,5 +1,6 @@
 {
-  "name": "comparison",
+  "name": "qlik-extension-comparison",
+  "description": "A dynamic Qlik Sense extension for comparing Renewal and New Opportunity data.",
   "icon": "extension",
   "preview": ""
 }
